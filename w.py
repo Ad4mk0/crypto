@@ -1,0 +1,2 @@
+akey = 'PA9fHnyxwqgJQTMCpLHgDwogtOrHAXhLYhla8xn2tBNcCoBmBFo8WsqYQZfaCoER'
+skey = 'M9WG364q08ogp11K639Qf1cg8KpnFOMUNSj4M88wsbm191j08a0kj8dgdLAeMZ1r'
